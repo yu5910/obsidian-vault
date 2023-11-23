@@ -1,0 +1,4 @@
+-  [关于括号匹配时, 用到了 switch](https://files.catbox.moe/7z80h1.png))
+-   [关于用户名匹配时, 用到了 switch](https://files.catbox.moe/p9rm5f.png))
+- [[一段不错的sitch基础代码]]
+- 如果 case 语句块中没有 break 语句时，匹配成功后，从当前 case 开始，后续所有 case 的值都会输出。除非再次遇到break
